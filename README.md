@@ -1,4 +1,4 @@
 PasswordChecker
 ===============
 
-A simple password checker... it determins how secure your password is.
+A simple password checker... it determines how secure your password is.
